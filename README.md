@@ -1,7 +1,7 @@
 # Wastify-Cygnus
 <h2>Wastify-The urban waste management system</h2>
 
-Wastify is an android app based project for waste management system in the urban cities.It is developed by Team CodeJOD.
+Wastify is an android app based project for waste management system in the urban cities.It is developed by Team Cygnus.
 
 The app "Wastify" is divided into three portals 'Super-Admin',  'Citizen',  'Driver'. The 'Citizen' portal is for normal user of the app. The 'Super-Admin' portal is for the monitoring-authority .The 'Driver' is for the Driver of the Garbage Collection van.
 
